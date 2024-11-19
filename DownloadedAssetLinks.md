@@ -7,3 +7,5 @@
 **Mountain Terrain**: https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-terrain-rocks-and-tree-97905
 
 **Dark Skybox**: https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
+
+**Ground Textures for Terrain**: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
