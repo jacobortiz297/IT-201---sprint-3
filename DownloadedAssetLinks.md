@@ -9,3 +9,15 @@
 **Dark Skybox**: https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
 
 **Ground Textures for Terrain**: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
+
+**Rocks Prefabs**: https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947
+
+**LowPoly Boats**: https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866
+
+**Fishing Boat**: https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-boat-23181
+
+**Submarine**: https://assetstore.unity.com/packages/3d/vehicles/sea/steampunk-submarine-diver-115731
+
+**Treasure Chest**: https://assetstore.unity.com/packages/3d/props/interior/treasure-chest-pbr-72498
+
+**LowPoly Pirate Ship**: https://assetstore.unity.com/packages/3d/vehicles/sea/low-poly-medieval-ship-266731
