@@ -21,3 +21,7 @@
 **Treasure Chest**: https://assetstore.unity.com/packages/3d/props/interior/treasure-chest-pbr-72498
 
 **LowPoly Pirate Ship**: https://assetstore.unity.com/packages/3d/vehicles/sea/low-poly-medieval-ship-266731
+
+**Spear (for harpoon)**: https://assetstore.unity.com/packages/3d/props/weapons/free-rpg-weapons-199738
+
+**LowPoly Pirate Pack**: https://assetstore.unity.com/packages/3d/environments/historic/3d-pirates-lowpoly-pack-233903
